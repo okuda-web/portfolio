@@ -1,0 +1,49 @@
+body{
+margin:0;
+font-family:sans-serif;
+text-align:center;
+}
+
+header{
+padding:60px 20px;
+background:#111;
+color:white;
+}
+
+.works{
+max-width:1100px;
+margin:0 auto;
+padding:80px 20px;
+display:flex;
+gap:30px;
+justify-content:center;
+flex-wrap:wrap;
+}
+
+.work-card{
+border:1px solid #ddd;
+padding:30px;
+width:250px;
+border-radius:10px;
+}
+
+.work-card a{
+display:inline-block;
+margin-top:15px;
+text-decoration:none;
+background:#333;
+color:white;
+padding:10px 20px;
+border-radius:5px;
+}
+
+.work-card:hover{
+transform:translateY(-5px);
+transition:0.3s;
+}
+
+.work-card img{
+width:100%;
+border-radius:10px;
+margin-bottom:10px;
+}
