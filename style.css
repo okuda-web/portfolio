@@ -81,8 +81,8 @@ margin-bottom:10px;
 .cta a {
   display: inline-block;
   margin-top: 20px;
-  background: white;
-  color: #3b82f6;
+  background:#111;
+  color:white;
   padding: 15px 40px;
   border-radius: 8px;
   text-decoration: none;
