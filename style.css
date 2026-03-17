@@ -50,6 +50,22 @@ border-radius:10px;
 margin-bottom:10px;
 }
 
+.price {
+  padding: 80px 20px;
+  background: #f8fafc;
+  text-align: center;
+}
+
+.price h2 {
+  font-size: 28px;
+  margin-bottom: 30px;
+}
+
+.price p {
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
 .cta {
   padding: 80px 20px;
   background: #3b82f6;
