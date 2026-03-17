@@ -88,3 +88,7 @@ margin-bottom:10px;
   text-decoration: none;
   font-weight: bold;
 }
+
+.cta a:hover {
+  background: #e6fffa;
+}
