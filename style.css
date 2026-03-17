@@ -68,8 +68,8 @@ margin-bottom:10px;
 
 .cta {
   padding: 100px 20px;
-  background: #3b82f6;
-  text-align: center;
+  background:#111;
+  color:white;
   color: white;
 }
 
@@ -81,8 +81,8 @@ margin-bottom:10px;
 .cta a {
   display: inline-block;
   margin-top: 20px;
-  background:#111;
-  color:white;
+  background:white;
+  color:black;
   padding: 15px 40px;
   border-radius: 8px;
   text-decoration: none;
