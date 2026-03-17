@@ -88,6 +88,15 @@ margin-bottom:10px;
   text-decoration: none;
   font-weight: bold;
 }
+.sp-only {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .sp-only {
+    display: inline;
+  }
+}
 
 .cta a:hover {
   background: #e6fffa;
